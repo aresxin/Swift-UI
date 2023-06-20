@@ -9,3 +9,7 @@ SwiftUI 最有趣的方面之一是从本质上将视图相关的描述也视为
 
 
 [Sharing content in SwiftUI](https://swiftwithmajid.com/2023/03/28/sharing-content-in-swiftui/) <br>
+
+
+## WWDC 2023 SwiftUI 
+[WWDC 2023 带来的 SwiftUI 部分新特性](https://juejin.cn/post/7241502656207962172) <br>
