@@ -13,3 +13,4 @@ SwiftUI 最有趣的方面之一是从本质上将视图相关的描述也视为
 
 ## WWDC 2023 SwiftUI 
 [WWDC 2023 带来的 SwiftUI 部分新特性](https://juejin.cn/post/7241502656207962172) <br>
+[WWDC23 10149 - Discover Observation in SwiftUI](https://xiaozhuanlan.com/topic/5023861974) <br>
