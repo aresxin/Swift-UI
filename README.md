@@ -2,6 +2,7 @@
 SwiftUI
 [Should we manually call @StateObject initializer](https://sarunw.com/posts/manually-initialize-stateobject/) <br>
 [swiftui-view-lifecycle](https://github.com/ole/swiftui-view-lifecycle) <br>
+[Convenience Property Wrappers vs Custom Data Access Layer in SwiftUI](https://azamsharp.com/2023/07/15/property-wrappers-vs-data-access-layer.html) <br>
 
 ## [ViewModifier](https://developer.apple.com/documentation/swiftui/viewmodifier)
 [SwiftUI views versus modifiers](https://www.swiftbysundell.com/articles/swiftui-views-versus-modifiers/) (把视图当做数据去描述，用ViewModifier去描述关系，而不是以前的视频嵌套视频关系)<br>
