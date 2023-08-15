@@ -19,3 +19,8 @@ SwiftUI 最有趣的方面之一是从本质上将视图相关的描述也视为
 
 ## Data Flow
 [SwiftUI Data Flow 2023](https://troz.net/post/2023/swiftui-data-flow-2023/#update-1) <br>
+
+
+### Observation
+[Observation](https://github.com/apple/swift/tree/main/stdlib/public/Observation/Sources/Observation) <br>
+[深入理解 Observation - 原理，back porting 和性能](https://onevcat.com/2023/08/observation-framework/) <br>
